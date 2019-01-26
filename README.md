@@ -1,5 +1,7 @@
 # Homework1
 My first assignment!
+
+
 import java.util.Scanner;
 import java.lang.Math;    //Used to run the square root method
 
